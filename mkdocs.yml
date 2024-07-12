@@ -21,3 +21,6 @@ markdown_extensions:
 # Repository
 repo_name: Yulljie/CattleEatsGrass
 repo_url: https://github.com/Yulljie/CattleEatsGrass
+
+extra_css:
+  - stylesheets/extra.css
