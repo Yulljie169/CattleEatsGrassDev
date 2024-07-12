@@ -1,5 +1,4 @@
 body{background-image:url(https://www.pixivs.cn/api/illust/random?format=image);
     }
-li{backdrop-filter:blur(50px);
-   margin:5px;}
+li{backdrop-filter:blur(50px);}
    
