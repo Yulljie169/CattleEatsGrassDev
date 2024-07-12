@@ -19,8 +19,8 @@ markdown_extensions:
   - footnotes
   
 # Repository
-repo_name: Yulljie/CattleEatsGrass
-repo_url: https://github.com/Yulljie/CattleEatsGrass
+repo_name: Yulljie169/CattleEatsGrassDev
+repo_url: https://github.com/Yulljie169/CattleEatsGrassDev
 
 extra_css:
   - stylesheets/extra.css
