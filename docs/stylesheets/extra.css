@@ -14,3 +14,6 @@ code{backdrop-filter:blur(100px);
 :root,[data-md-color-scheme=default] {
      --md-code-bg-color: rgba(255,255,255,0);
 }
+.md-nav__list{
+         backdrop-filter: blur(50px);
+}
