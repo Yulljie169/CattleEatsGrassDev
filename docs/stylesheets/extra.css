@@ -4,7 +4,11 @@ body{background-image:url(https://www.pixivs.cn/api/illust/random?format=image);
      background-siza:auto;
      }
 li:not(.md-nav__item){backdrop-filter:blur(50px);
-                     border-radius:10px;}  
+                     border-radius:10px;
+                     padding-left: 10px;
+                   padding-top: 1px;
+                   padding-bottom: 1px;
+                   padding-right: 10px;}  
 code{backdrop-filter:blur(100px);
     background-color:rgba()}  
 :root,[data-md-color-scheme=default] {
