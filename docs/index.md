@@ -4,17 +4,14 @@
 
 ## Intro
 
-    CattleEatsGrass is a history of Class 1 Grade 2022
+    CattleEatsGrassDev是CattleEatsGrass的测试版本，包含一些正在开发和测试的新功能。
 
-## Status
+## Items
 
-    众生相/创本元月 Complete.
-    众生相/创本二月 Syncing...
+    随机背景图片 Testing...
+    单条内容背景模糊效果 Developing...
 
-    侠客记/舒健玩机传 Complete.
-    侠客记/巡狭居士传 Syncing...
-    侠客记/七杯购彩记 Syncing...
-    侠客记/王舒健默《石钟山记》 Waiting...
+关于详细信息请查阅文档。
 
 ## Read
 （轻触左上角菜单按钮查看目录）
