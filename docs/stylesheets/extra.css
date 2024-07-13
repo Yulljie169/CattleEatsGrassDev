@@ -1,6 +1,8 @@
 body{background-image:url(https://www.pixivs.cn/api/illust/random?format=image);
-background-attachment:fixed;
-background-repeat: no-repeat;}
+     background-attachment:fixed;
+     background-repeat: no-repeat;
+     background-siza:auto;
+     }
 li:not(.md-nav__item){backdrop-filter:blur(50px);
                      border-radius:10px;}  
 code{backdrop-filter:blur(100px);}  
