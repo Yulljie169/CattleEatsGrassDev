@@ -17,3 +17,10 @@ code{backdrop-filter:blur(100px);
 .md-nav__list{
          backdrop-filter: blur(50px);
 }
+.md-header{
+     backdrop-filter: blur(20px);    
+}
+
+[data-md-color-primary=indigo] {
+    --md-primary-fg-color: rgba(255,255,255,0.3);
+}
