@@ -12,7 +12,7 @@ li:not(.md-nav__item){backdrop-filter:blur(50px);
 code{backdrop-filter:blur(100px);
     background-color:rgba()}  
 :root,[data-md-color-scheme=default] {
-     --md-code-bg-color: rgba(255,255,255,0);
+     --md-code-bg-color: rgba(255,255,255,0.2);
 }
 .md-nav__list{
          backdrop-filter: blur(50px);
