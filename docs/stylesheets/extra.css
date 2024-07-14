@@ -14,7 +14,8 @@ li:not(.md-nav__item){backdrop-filter:blur(50px);
 
 
 code{backdrop-filter:blur(100px);
-    background-color:rgba()}  
+    background-color:rgba()
+    color:white;}  
 :root,[data-md-color-scheme=default] {
      --md-code-bg-color: rgba(0,0,0,0.4);
 }
