@@ -11,11 +11,15 @@ li:not(.md-nav__item){backdrop-filter:blur(50px);
                    padding-right: 10px;
                      color:white;
                      background-color:rgba(0,0,0,0.3)}  
+
+
 code{backdrop-filter:blur(100px);
     background-color:rgba()}  
 :root,[data-md-color-scheme=default] {
-     --md-code-bg-color: rgba(255,255,255,0.2);
+     --md-code-bg-color: rgba(0,0,0,0.4);
 }
+
+
 .md-nav__list{
          backdrop-filter: blur(50px);
 }
