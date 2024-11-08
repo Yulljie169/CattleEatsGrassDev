@@ -1,0 +1,33 @@
+body{background-image:url(https://pixiv.js.org/api/illust/random?format=image);
+     background-attachment:fixed;
+     background-repeat: no-repeat;
+     background-size:cover;
+     }
+li:not(.md-nav__item){backdrop-filter:blur(50px);
+                     border-radius:10px;
+                     padding-left: 10px;
+                   padding-top: 1px;
+                   padding-bottom: 1px;
+                   padding-right: 10px;
+                     color:white;
+                     background-color:rgba(0,0,0,0.3)}  
+
+
+code{backdrop-filter:blur(100px);
+    background-color:rgba()
+    color:white;}  
+:root,[data-md-color-scheme=default] {
+     --md-code-bg-color: rgba(0,0,0,0.4);
+}
+
+
+.md-nav__list{
+         backdrop-filter: blur(50px);
+}
+.md-header{
+     backdrop-filter: blur(20px);    
+}
+
+[data-md-color-primary=indigo] {
+    --md-primary-fg-color: rgba(0,0,0,0.3);
+}
